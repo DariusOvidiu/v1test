@@ -1,0 +1,126 @@
+{
+  "common": {
+    "login": "Autentificare",
+    "signUp": "Înregistrare",
+    "logout": "Deconectare",
+    "email": "Email",
+    "password": "Parolă",
+    "loading": "Se încarcă...",
+    "error": "Eroare",
+    "success": "Succes"
+  },
+  "welcome": {
+    "title": "Bine ai venit în Ghidul tău Ultimate de Gambling",
+    "description": "Obține acces la sfaturi de la experți, asistență AI și conținut exclusiv pentru a-ți îmbunătăți experiența de gambling.",
+    "expertContent": {
+      "title": "Conținut Expert",
+      "description": "Accesează ghiduri complete, recenzii și strategii scrise de experți în domeniu. Tu te înregistrezi, și noi ne ocupăm de restul - ghiduri personalizate, strategii verificate și cele mai bune oportunități."
+    },
+    "aiAssistance": {
+      "title": "Asistență AI",
+      "description": "Primește răspunsuri instant la întrebările tale despre cazinouri, jocuri și strategii cu chatbot-ul nostru AI avansat."
+    },
+    "buttons": {
+      "createAccount": "Creează Cont",
+      "skipForNow": "Mai târziu"
+    },
+    "reminder": {
+      "title": "Nu rata ofertele!",
+      "description": "AI Agent, funcții și oferte exclusive gratuit",
+      "createAccount": "Creează Cont",
+      "later": "Mai târziu"
+    }
+  },
+  "register": {
+    "title": "Înregistrare",
+    "subtitle": "Creează-ți un cont nou",
+    "fields": {
+      "username": "Nume utilizator",
+      "email": "Email",
+      "password": "Parolă",
+      "country": "Țară",
+      "phone": "Telefon",
+      "interests": "Interese"
+    },
+    "placeholders": {
+      "username": "Introdu numele de utilizator",
+      "email": "Introdu email-ul",
+      "password": "Introdu parola",
+      "country": "Selectează țara",
+      "phone": "Introdu numărul de telefon"
+    },
+    "errors": {
+      "usernameRequired": "Numele de utilizator este obligatoriu",
+      "emailRequired": "Email-ul este obligatoriu",
+      "passwordRequired": "Parola este obligatorie",
+      "countryRequired": "Țara este obligatorie",
+      "phoneRequired": "Telefonul este obligatoriu",
+      "generalError": "A apărut o eroare. Te rugăm să încerci din nou."
+    },
+    "loading": "Se încarcă...",
+    "submit": "Înregistrare",
+    "haveAccount": "Ai deja cont?",
+    "loginLink": "Autentifică-te"
+  },
+  "login": {
+    "title": "Autentificare",
+    "subtitle": "Bine ai venit înapoi!",
+    "fields": {
+      "identifier": "Email sau Telefon",
+      "password": "Parolă"
+    },
+    "placeholders": {
+      "identifier": "Introdu email-ul sau telefonul",
+      "password": "Introdu parola"
+    },
+    "errors": {
+      "identifierRequired": "Email-ul sau telefonul este obligatoriu",
+      "passwordRequired": "Parola este obligatorie",
+      "generalError": "A apărut o eroare. Te rugăm să încerci din nou."
+    },
+    "loading": "Se încarcă...",
+    "submit": "Autentificare",
+    "noAccount": "Nu ai cont?",
+    "registerLink": "Înregistrează-te",
+    "forgotPassword": "Ai uitat parola?"
+  },
+  "admin": {
+    "users": {
+      "title": "Administrare Utilizatori",
+      "loading": "Se încarcă utilizatorii...",
+      "error": "A apărut o eroare la încărcarea utilizatorilor",
+      "table": {
+        "username": "Nume utilizator",
+        "email": "Email",
+        "country": "Țară",
+        "roles": "Roluri",
+        "createdAt": "Data creării",
+        "actions": "Acțiuni"
+      },
+      "actions": {
+        "editRoles": "Editare roluri",
+        "save": "Salvare",
+        "cancel": "Anulare"
+      },
+      "messages": {
+        "updateSuccess": "Rolurile au fost actualizate cu succes",
+        "updateError": "A apărut o eroare la actualizarea rolurilor"
+      }
+    }
+  },
+  "resetPassword": {
+    "title": "Resetare parolă",
+    "description": "Introdu adresa de email asociată contului tău și îți vom trimite instrucțiuni pentru resetarea parolei.",
+    "submit": "Trimite instrucțiuni",
+    "backToLogin": "Înapoi la autentificare",
+    "emailSent": "Email-ul cu instrucțiuni a fost trimis",
+    "error": "A apărut o eroare. Te rugăm să încerci din nou.",
+    "invalidToken": "Link-ul de resetare este invalid sau a expirat",
+    "tryAgain": "Încearcă din nou",
+    "newPassword": "Setează o nouă parolă",
+    "enterNewPassword": "Introdu noua parolă pentru contul tău",
+    "confirmPassword": "Confirmă parola",
+    "passwordsDoNotMatch": "Parolele nu coincid",
+    "success": "Parola a fost actualizată cu succes"
+  }
+} 

@@ -1,0 +1,31 @@
+{
+  "header": {
+    "search": "Casinos suchen...",
+    "login": "Anmelden",
+    "signup": "Registrieren"
+  },
+  "navigation": {
+    "home": "Startseite",
+    "casinos": "Casinos",
+    "games": "Spiele",
+    "bonuses": "Boni",
+    "guides": "Ratgeber"
+  },
+  "hero": {
+    "title": "Willkommen bei Casino Guru",
+    "subtitle": "Ihr vertrauenswürdiger Führer für Online-Glücksspiel"
+  },
+  "language": {
+    "select": "Sprache und Land auswählen",
+    "language": "Sprache",
+    "country": "Land",
+    "apply": "Änderungen übernehmen"
+  },
+  "home": {
+    "title": "Ratgeber für Online Casinos und Glücksspiel",
+    "description": "Entdecken Sie unseren Ratgeber-Bereich mit informativen Artikeln über Online Casinos und Glücksspiel, Casino-Spiele, Boni, verantwortungsvolles Spielen und mehr.",
+    "topArticles": "Top Artikel",
+    "readMore": "Weiterlesen",
+    "minRead": "{minutes} Min. Lesezeit"
+  }
+} 

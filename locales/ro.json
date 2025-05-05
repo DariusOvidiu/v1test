@@ -1,0 +1,16 @@
+{
+  "newsletter": {
+    "title": "Primește cele mai bune sfaturi pentru jocuri de noroc!",
+    "description": "Înscrie-te la newsletter-ul nostru și primește sfaturi exclusive, strategii de joc și cele mai noi informații despre cazinourile online.",
+    "emailPlaceholder": "Adresa ta de email",
+    "terms": "Sunt de acord să primesc comunicări de marketing și accept Termenii și Condițiile",
+    "subscribe": "Mă abonez",
+    "later": "Mai târziu",
+    "reminder": "Înscrie-te la newsletter pentru a avea acces la AI Chat și sfaturi exclusive! 🎰",
+    "successMessage": "Te-ai abonat cu succes la newsletter! Vei primi în curând primul email.",
+    "errorMessage": "A apărut o eroare la abonare. Te rugăm să încerci din nou mai târziu.",
+    "invalidEmail": "Te rugăm să introduci o adresă de email validă.",
+    "emailExists": "Această adresă de email este deja înregistrată.",
+    "requiredFields": "Email-ul și acceptarea termenilor sunt obligatorii."
+  }
+} 

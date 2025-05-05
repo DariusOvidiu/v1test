@@ -1,0 +1,160 @@
+{
+  "header": {
+    "search": "Search casinos...",
+    "login": "Login",
+    "signup": "Sign Up"
+  },
+  "navigation": {
+    "home": "Home",
+    "casinos": "Casinos",
+    "games": "Games",
+    "bonuses": "Bonuses",
+    "guides": "Guides"
+  },
+  "hero": {
+    "title": "Welcome to Casino Guru",
+    "subtitle": "Your trusted guide to online gambling"
+  },
+  "language": {
+    "select": "Select Language & Country",
+    "language": "Language",
+    "country": "Country",
+    "apply": "Apply Changes"
+  },
+  "welcome": {
+    "title": "Welcome to Your Ultimate Gambling Guide",
+    "description": "Get access to expert advice, AI assistance, and exclusive content to enhance your gambling experience.",
+    "expertContent": {
+      "title": "Expert Content",
+      "description": "Access comprehensive guides, reviews, and strategies written by industry experts. You register, we handle the rest - personalized guides, proven strategies, and best opportunities."
+    },
+    "aiAssistance": {
+      "title": "AI Assistance",
+      "description": "Get instant answers to your questions about casinos, games, and strategies with our advanced AI chatbot."
+    },
+    "buttons": {
+      "createAccount": "Create Account",
+      "skipForNow": "Later"
+    },
+    "reminder": {
+      "title": "Don't Miss Out!",
+      "description": "AI Agent, exclusive offers and features for free",
+      "createAccount": "Create Account",
+      "later": "Later"
+    }
+  },
+  "search": {
+    "placeholder": "Search for casinos, games, and more"
+  },
+  "auth": {
+    "login": "Login",
+    "signup": "Sign up"
+  },
+  "home": {
+    "title": "Your Ultimate Guide to Online Gambling & Sports Betting",
+    "description": "Discover expert insights, strategies, and reviews for online casinos, sports betting, and more. Whether you're a beginner or experienced player, we provide the knowledge you need to make informed decisions.",
+    "getStarted": "Get Started",
+    "trustedBy": "Trusted by",
+    "users": "users worldwide",
+    "topics": {
+      "introduction": "Introduction to Online Gambling",
+      "bonuses": "Bonuses & Promotions",
+      "reviews": "Casino Reviews",
+      "fairGaming": "Fair Gaming Guide"
+    },
+    "topArticles": "Top Articles",
+    "readMore": "Read more",
+    "minRead": "{minutes} min. read",
+    "articles": {
+      "introduction": {
+        "title": "Introduction to Online Casinos",
+        "description": "Are you new to online casinos? Get to know the basics before you start playing, so that you make good decisions."
+      },
+      "games": {
+        "title": "Games of chance: RTP and variance",
+        "description": "Learn how games of chance work with their payout ratio (RTP), volatility (variance) and other characteristics."
+      }
+    }
+  },
+  "register": {
+    "title": "Sign Up",
+    "subtitle": "Create a new account",
+    "fields": {
+      "username": "Username",
+      "email": "Email",
+      "password": "Password",
+      "country": "Country",
+      "phone": "Phone",
+      "interests": "Interests"
+    },
+    "placeholders": {
+      "username": "Enter your username",
+      "email": "Enter your email",
+      "password": "Enter your password",
+      "country": "Select your country",
+      "phone": "Enter your phone number"
+    },
+    "errors": {
+      "usernameRequired": "Username is required",
+      "emailRequired": "Email is required",
+      "passwordRequired": "Password is required",
+      "countryRequired": "Country is required",
+      "phoneRequired": "Phone is required",
+      "generalError": "An error occurred. Please try again."
+    },
+    "loading": "Loading...",
+    "submit": "Sign Up",
+    "haveAccount": "Already have an account?",
+    "loginLink": "Login"
+  },
+  "common": {
+    "login": "Login",
+    "signUp": "Sign Up",
+    "logout": "Logout"
+  },
+  "login": {
+    "title": "Login",
+    "subtitle": "Welcome back!",
+    "fields": {
+      "identifier": "Email or Phone",
+      "password": "Password"
+    },
+    "placeholders": {
+      "identifier": "Enter your email or phone",
+      "password": "Enter your password"
+    },
+    "errors": {
+      "identifierRequired": "Email or phone is required",
+      "passwordRequired": "Password is required",
+      "generalError": "An error occurred. Please try again."
+    },
+    "loading": "Loading...",
+    "submit": "Login",
+    "noAccount": "Don't have an account?",
+    "registerLink": "Sign Up"
+  },
+  "admin": {
+    "users": {
+      "title": "User Management",
+      "loading": "Loading users...",
+      "error": "An error occurred while loading users",
+      "table": {
+        "username": "Username",
+        "email": "Email",
+        "country": "Country",
+        "roles": "Roles",
+        "createdAt": "Created At",
+        "actions": "Actions"
+      },
+      "actions": {
+        "editRoles": "Edit Roles",
+        "save": "Save",
+        "cancel": "Cancel"
+      },
+      "messages": {
+        "updateSuccess": "Roles updated successfully",
+        "updateError": "An error occurred while updating roles"
+      }
+    }
+  }
+} 

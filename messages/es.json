@@ -1,0 +1,39 @@
+{
+  "header": {
+    "search": "Buscar casinos...",
+    "login": "Iniciar sesión",
+    "signup": "Registrarse"
+  },
+  "navigation": {
+    "home": "Inicio",
+    "casinos": "Casinos",
+    "games": "Juegos",
+    "bonuses": "Bonos",
+    "guides": "Guías",
+    "onlineCasinos": "Casinos en línea",
+    "guide": "Guía",
+    "reviews": "Reseñas",
+    "tournaments": "Torneos",
+    "news": "Noticias"
+  },
+  "hero": {
+    "title": "Bienvenido a Casino Guru",
+    "subtitle": "Tu guía confiable de juegos de azar online"
+  },
+  "language": {
+    "select": "Seleccionar Idioma y País",
+    "language": "Idioma",
+    "country": "País",
+    "apply": "Aplicar Cambios"
+  },
+  "search": {
+    "placeholder": "Buscar casinos, juegos y más"
+  },
+  "home": {
+    "title": "Guía de Casinos en Línea y Juegos de Azar",
+    "description": "Explora nuestra sección de guías con artículos educativos sobre casinos en línea y juegos de azar, juegos de casino, bonos, juego responsable y más.",
+    "topArticles": "Artículos destacados",
+    "readMore": "Leer más",
+    "minRead": "{minutes} min. de lectura"
+  }
+} 

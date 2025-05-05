@@ -1,0 +1,43 @@
+{
+  "header": {
+    "search": "Rechercher des casinos...",
+    "login": "Connexion",
+    "signup": "S'inscrire"
+  },
+  "navigation": {
+    "home": "Accueil",
+    "casinos": "Casinos",
+    "games": "Jeux",
+    "bonuses": "Bonus",
+    "guides": "Guides",
+    "onlineCasinos": "Casinos en ligne",
+    "guide": "Guide",
+    "reviews": "Avis",
+    "tournaments": "Tournois",
+    "news": "Actualités"
+  },
+  "hero": {
+    "title": "Bienvenue sur Casino Guru",
+    "subtitle": "Votre guide de confiance pour les jeux d'argent en ligne"
+  },
+  "language": {
+    "select": "Sélectionner la langue et le pays",
+    "language": "Langue",
+    "country": "Pays",
+    "apply": "Appliquer les changements"
+  },
+  "search": {
+    "placeholder": "Rechercher des casinos, jeux et plus"
+  },
+  "auth": {
+    "login": "Connexion",
+    "signup": "S'inscrire"
+  },
+  "home": {
+    "title": "Guide des casinos en ligne et des jeux d'argent",
+    "description": "Explorez notre section de guides avec des articles éducatifs sur les casinos en ligne et les jeux d'argent, les jeux de casino, les bonus, le jeu responsable et plus encore.",
+    "topArticles": "Articles populaires",
+    "readMore": "Lire la suite",
+    "minRead": "{minutes} min. de lecture"
+  }
+} 
